@@ -1,0 +1,23 @@
+[33mcommit 1ff7dabb68da9188d25043547b126b4c664020d1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Peter <peter.m.farmer.204@gmail.com>
+Date:   Wed Feb 1 01:24:04 2023 +1100
+
+    finalised Hero and layed out the highlights section with images properly formatted.
+
+[33mcommit 47a484e5be04049e93206b3feb5daf42d9b8fbe1[m
+Author: Peter <peter.m.farmer.204@gmail.com>
+Date:   Mon Jan 30 23:41:02 2023 +1100
+
+    filled out header and section 1 of body
+
+[33mcommit a4a8f1517e22942374cbf1bee8c90f1cf664704b[m
+Author: Peter <peter.m.farmer.204@gmail.com>
+Date:   Mon Jan 30 16:57:18 2023 +1100
+
+    skeleton of html complete
+
+[33mcommit 6e8737ca046be8f394389350e7431795de50ede7[m
+Author: Peter <peter.m.farmer.204@gmail.com>
+Date:   Mon Jan 30 16:35:10 2023 +1100
+
+    initial commit
